@@ -1,5 +1,4 @@
 # Kairos
-# Project Kairos
 
 ### Exploring what a reliable AI operating layer could look like.
 
